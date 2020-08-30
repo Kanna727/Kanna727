@@ -45,7 +45,9 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
-[![Prasanth's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark)](https://stackoverflow.com/users/8487133/prasanth-kanna)
+<!-- [![Prasanth's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark)](https://stackoverflow.com/users/8487133/prasanth-kanna)&nbsp;&nbsp;&nbsp;&nbsp; -->
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark">
+
 <!-- STACKOVERFLOW:START -->
 - [Unicode characters not working in Cloud Firestore](https://stackoverflow.com/questions/53855197/unicode-characters-not-working-in-cloud-firestore)
 - [How to format text to be displayed in Flutter](https://stackoverflow.com/questions/53853176/how-to-format-text-to-be-displayed-in-flutter)
@@ -53,6 +55,7 @@
 - [Flutter StreamBuilder vs FutureBuilder](https://stackoverflow.com/questions/50844519/flutter-streambuilder-vs-futurebuilder)
 - [Flutter Directory.systemTemp is not working in the release apk](https://stackoverflow.com/questions/50803347/flutter-directory-systemtemp-is-not-working-in-the-release-apk)
 <!-- STACKOVERFLOW:END -->
+
 
 <!--
 **Kanna727/Kanna727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
