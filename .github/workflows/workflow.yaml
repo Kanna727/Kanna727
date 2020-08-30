@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Profile workflow
 on:
   schedule:
     # Runs at 12am IST
