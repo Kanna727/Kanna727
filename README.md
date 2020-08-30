@@ -38,6 +38,25 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
+
+## My Coding Stats
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       8 hrs 1 min         ███████████████████░░░░░░   76.37% 
+HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   9.56% 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
+
+```
+
+
+<!--END_SECTION:waka-->
+
 ## My Github Stats
 <img align="" height='150px'
 src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
@@ -70,35 +89,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 - [How to crop Image from image picker in flutter?](https://stackoverflow.com/questions/50343045/how-to-crop-image-from-image-picker-in-flutter)
 - [How to blur the BottomNavigationBar in Flutter?](https://stackoverflow.com/questions/50133651/how-to-blur-the-bottomnavigationbar-in-flutter)
 <!-- STACKOVERFLOW:END -->
-
-## My Coding Stats
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       8 hrs 1 min         ███████████████████░░░░░░   76.37% 
-HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   9.56% 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
-
-```
-
-
-<!--END_SECTION:waka-->
-<!--
-**Kanna727/Kanna727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
