@@ -45,7 +45,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
-<!-- [![Prasanth's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark)](https://stackoverflow.com/users/8487133/prasanth-kanna)&nbsp;&nbsp;&nbsp;&nbsp; -->
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark">
 
 <!-- STACKOVERFLOW:START -->
