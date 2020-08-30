@@ -4,6 +4,7 @@
 [![Years Badge](https://badges.pufler.dev/years/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
+<!-- ![Generated Button](https://raw.githubusercontent.com/Kanna727/Kanna727/master/badge.svg) -->
 
 
 **Languages I have used**
