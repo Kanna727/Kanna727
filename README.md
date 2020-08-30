@@ -49,11 +49,15 @@
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark">
 
 <!-- STACKOVERFLOW:START -->
+- [Unicode characters not working in Cloud Firestore](https://stackoverflow.com/questions/53855197/unicode-characters-not-working-in-cloud-firestore)
 - [How to format text to be displayed in Flutter](https://stackoverflow.com/questions/53853176/how-to-format-text-to-be-displayed-in-flutter)
+- [Flutter reading a file as a stream](https://stackoverflow.com/questions/51136512/flutter-reading-a-file-as-a-stream)
+- [Flutter StreamBuilder vs FutureBuilder](https://stackoverflow.com/questions/50844519/flutter-streambuilder-vs-futurebuilder)
+- [Flutter Directory.systemTemp is not working in the release apk](https://stackoverflow.com/questions/50803347/flutter-directory-systemtemp-is-not-working-in-the-release-apk)
+- [How to load data from cache before app loads in flutter?](https://stackoverflow.com/questions/50783868/how-to-load-data-from-cache-before-app-loads-in-flutter)
+- [How to implement floating chat heads in flutter? [closed]](https://stackoverflow.com/questions/50630133/how-to-implement-floating-chat-heads-in-flutter)
 - [How to crop Image from image picker in flutter?](https://stackoverflow.com/questions/50343045/how-to-crop-image-from-image-picker-in-flutter)
 - [How to blur the BottomNavigationBar in Flutter?](https://stackoverflow.com/questions/50133651/how-to-blur-the-bottomnavigationbar-in-flutter)
-- [How to implement floating chat heads in flutter? [closed]](https://stackoverflow.com/questions/50630133/how-to-implement-floating-chat-heads-in-flutter)
-- [Flutter StreamBuilder vs FutureBuilder](https://stackoverflow.com/questions/50844519/flutter-streambuilder-vs-futurebuilder)
 <!-- STACKOVERFLOW:END -->
 
 
