@@ -47,11 +47,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com//Kanna727/Kanna727/pull/6) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
-2. 💪 Opened PR [#6](https://github.com//Kanna727/Kanna727/pull/6) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
-3. 🎉 Merged PR [#5](https://github.com//Kanna727/Kanna727/pull/5) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
-4. 💪 Opened PR [#5](https://github.com//Kanna727/Kanna727/pull/5) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
-5. 🎉 Merged PR [#4](https://github.com//Kanna727/Kanna727/pull/4) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
+1. 🎉 Merged PR [#7](https://github.com//Kanna727/Kanna727/pull/7) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
+2. 💪 Opened PR [#7](https://github.com//Kanna727/Kanna727/pull/7) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
+3. 🎉 Merged PR [#6](https://github.com//Kanna727/Kanna727/pull/6) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
+4. 💪 Opened PR [#6](https://github.com//Kanna727/Kanna727/pull/6) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
+5. 🎉 Merged PR [#5](https://github.com//Kanna727/Kanna727/pull/5) in [Kanna727/Kanna727](https://github.com//Kanna727/Kanna727)
 <!--END_SECTION:activity-->
 
 ## My Stackoverflow Stats
