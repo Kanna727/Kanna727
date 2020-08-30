@@ -47,6 +47,11 @@
 
 [![Prasanth's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark)](https://stackoverflow.com/users/8487133/prasanth-kanna)
 <!-- STACKOVERFLOW:START -->
+- [Unicode characters not working in Cloud Firestore](https://stackoverflow.com/questions/53855197/unicode-characters-not-working-in-cloud-firestore)
+- [How to format text to be displayed in Flutter](https://stackoverflow.com/questions/53853176/how-to-format-text-to-be-displayed-in-flutter)
+- [Flutter reading a file as a stream](https://stackoverflow.com/questions/51136512/flutter-reading-a-file-as-a-stream)
+- [Flutter StreamBuilder vs FutureBuilder](https://stackoverflow.com/questions/50844519/flutter-streambuilder-vs-futurebuilder)
+- [Flutter Directory.systemTemp is not working in the release apk](https://stackoverflow.com/questions/50803347/flutter-directory-systemtemp-is-not-working-in-the-release-apk)
 <!-- STACKOVERFLOW:END -->
 
 <!--
