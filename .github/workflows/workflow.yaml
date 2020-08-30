@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs at 12am IST
+    # - cron: '30 18 * * *'
+    # Runs every 5min
+    - cron: "*/5 * * * *"
+
+jobs:
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/8487133"
