@@ -28,9 +28,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
   loc-update:
     runs-on: ubuntu-latest
-    name: Make LOC Badge
+    name: Make & Deploy LOC Badge
     steps:
-      - uses: shadowmoose/GHA-LoC-Badge@1.0.0
+      - name: Make LOC Badge
+        uses: shadowmoose/GHA-LoC-Badge@1.0.0
         id: badge
         with:
           debug: true
@@ -38,3 +39,11 @@ jobs:
           badge: ./output/badge.svg
           badge_style: "flat"
           ignore: 'node_modules'
+      - name: Deploy to image-data branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./output
+          publish_branch: image-data
+          github_token: ${{ secrets.README_TOKEN }}
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
