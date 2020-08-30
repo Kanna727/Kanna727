@@ -5,19 +5,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
 
-<h1>
-    <a href="">
-        <img align="" height='150px'
-        src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
-        <img align="" height='150px'
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark"/>
-    </a>
-</h1>
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 **Languages I have used**
 
@@ -50,8 +37,27 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
+## My Github Stats
+
+<h1>
+    <a href="">
+        <img align="" height='150px'
+        src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+        <img align="" height='150px'
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark"/>
+    </a>
+</h1>
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## My Stackoverflow Status
+
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark">
 
+### Recent Activity
 <!-- STACKOVERFLOW:START -->
 - [Unicode characters not working in Cloud Firestore](https://stackoverflow.com/questions/53855197/unicode-characters-not-working-in-cloud-firestore)
 - [How to format text to be displayed in Flutter](https://stackoverflow.com/questions/53853176/how-to-format-text-to-be-displayed-in-flutter)
