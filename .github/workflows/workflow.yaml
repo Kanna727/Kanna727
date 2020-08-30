@@ -26,24 +26,11 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
-  loc-update:
+  wake-stats-update:
+    name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
-    name: Make & Deploy LOC Badge
     steps:
-      - name: Make LOC Badge
-        uses: shadowmoose/GHA-LoC-Badge@1.0.0
-        id: badge
+      - uses: anmol098/waka-readme-stats@master
         with:
-          debug: true
-          directory: ./
-          badge: ./output/badge.svg
-          badge_style: "flat"
-          ignore: 'node_modules'
-      - name: Deploy to image-data branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          publish_dir: ./output
-          publish_branch: image-data
-          github_token: ${{ secrets.README_TOKEN }}
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
+          WAKATIME_API_KEY: ${{ secrets.WAKA_API_KEY }}
+          GH_TOKEN: ${{ secrets.README_TOKEN }}

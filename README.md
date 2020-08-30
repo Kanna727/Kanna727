@@ -66,7 +66,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 - [How to blur the BottomNavigationBar in Flutter?](https://stackoverflow.com/questions/50133651/how-to-blur-the-bottomnavigationbar-in-flutter)
 <!-- STACKOVERFLOW:END -->
 
-
+## My Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->a
 <!--
 **Kanna727/Kanna727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
