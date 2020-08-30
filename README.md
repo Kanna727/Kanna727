@@ -38,22 +38,17 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
 ## My Github Stats
-
-<h1>
-    <a href="">
-        <img align="" height='150px'
-        src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
-        <img align="" height='150px'
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark"/>
-    </a>
-</h1>
+<img align="" height='150px'
+src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+<img align="" height='150px'
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark"/>
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## My Stackoverflow Status
+## My Stackoverflow Stats
 
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark">
 
