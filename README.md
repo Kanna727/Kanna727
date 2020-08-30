@@ -46,7 +46,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
 <!-- [![Prasanth's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark)](https://stackoverflow.com/users/8487133/prasanth-kanna)&nbsp;&nbsp;&nbsp;&nbsp; -->
-<img align="right" height="250" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark">
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark">
 
 <!-- STACKOVERFLOW:START -->
 - [Unicode characters not working in Cloud Firestore](https://stackoverflow.com/questions/53855197/unicode-characters-not-working-in-cloud-firestore)
