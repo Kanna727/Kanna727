@@ -14,6 +14,11 @@
     </a>
 </h1>
 
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=A8B9CC)
