@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/Kanna727/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/Kanna727?style=for-the-badge)](https://badges.pufler.dev)
-<!-- ![Generated Button](https://raw.githubusercontent.com/Kanna727/Kanna727/master/badge.svg) -->
-
+![Visits Badge](https://badges.pufler.dev/visits/Kanna727/Kanna727?style=for-the-badge)
+![Years Badge](https://badges.pufler.dev/years/Kanna727?style=for-the-badge)
+[![Repos Badge](https://badges.pufler.dev/repos/Kanna727?style=for-the-badge)](https://github.com/Kanna727?tab=repositories)
+<!-- [![Gists Badge](https://badges.pufler.dev/gists/Kanna727?style=for-the-badge)](https://gist.github.com/Kanna727) -->
 
 **Languages I have used**
 
@@ -76,7 +74,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 
 ## My Stackoverflow Stats
 
-<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark">
+<!-- <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark"> -->
+
+<a href="https://stackoverflow.com/users/8487133/prasanth-kanna"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark"></a>
 
 ### Recent Activity
 <!-- STACKOVERFLOW:START -->
