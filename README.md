@@ -74,8 +74,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 
 ## My Stackoverflow Stats
 
-<!-- <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark"> -->
-
 <a href="https://stackoverflow.com/users/8487133/prasanth-kanna"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark"></a>
 
 ### Recent Activity
