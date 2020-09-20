@@ -65,11 +65,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com//Kanna727/jekyll-run/pull/17) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
-2. 🗣 Commented on [#16](https://github.com//Kanna727/jekyll-run/issues/16) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
-3. ❗️ Reopened issue [#15](https://github.com//Kanna727/jekyll-run/issues/15) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
-4. 🗣 Commented on [#15](https://github.com//Kanna727/jekyll-run/issues/15) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
-5. ❗️ Closed issue [#15](https://github.com//Kanna727/jekyll-run/issues/15) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
+1. 🗣 Commented on [#16](https://github.com//Kanna727/jekyll-run/issues/16) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
+2. 🗣 Commented on [#17](https://github.com//Kanna727/jekyll-run/issues/17) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
+3. 🗣 Commented on [#14](https://github.com//Kanna727/jekyll-run/issues/14) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
+4. 🗣 Commented on [#18](https://github.com//Kanna727/jekyll-run/issues/18) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
+5. 🗣 Commented on [#19](https://github.com//Kanna727/jekyll-run/issues/19) in [Kanna727/jekyll-run](https://github.com//Kanna727/jekyll-run)
 <!--END_SECTION:activity-->
 
 ## My Stackoverflow Stats
