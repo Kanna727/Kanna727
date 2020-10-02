@@ -65,11 +65,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
-2. 💪 Opened PR [#378](https://github.com/Mermade/widdershins/pull/378) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
-3. 🗣 Commented on [#79](https://github.com/keymetrics/docker-pm2/issues/79) in [keymetrics/docker-pm2](https://github.com/keymetrics/docker-pm2)
-4. 🗣 Commented on [#16](https://github.com/Kanna727/jekyll-run/issues/16) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-5. 🗣 Commented on [#17](https://github.com/Kanna727/jekyll-run/issues/17) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
+1. 🗣 Commented on [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
+2. 🗣 Commented on [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
+3. ❗️ Opened issue [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
+4. 💪 Opened PR [#378](https://github.com/Mermade/widdershins/pull/378) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
+5. 🗣 Commented on [#79](https://github.com/keymetrics/docker-pm2/issues/79) in [keymetrics/docker-pm2](https://github.com/keymetrics/docker-pm2)
 <!--END_SECTION:activity-->
 
 ## My Stackoverflow Stats
