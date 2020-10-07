@@ -65,11 +65,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#295](https://github.com/winstonjs/winston-daily-rotate-file/pull/295) in [winstonjs/winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file)
-2. 🗣 Commented on [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
+1. 🎉 Merged PR [#5](https://github.com/Kanna727/Production-Ready-Express-Template/pull/5) in [Kanna727/Production-Ready-Express-Template](https://github.com/Kanna727/Production-Ready-Express-Template)
+2. 💪 Opened PR [#295](https://github.com/winstonjs/winston-daily-rotate-file/pull/295) in [winstonjs/winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file)
 3. 🗣 Commented on [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
-4. ❗️ Opened issue [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
-5. 💪 Opened PR [#378](https://github.com/Mermade/widdershins/pull/378) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
+4. 🗣 Commented on [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
+5. ❗️ Opened issue [#379](https://github.com/Mermade/widdershins/issues/379) in [Mermade/widdershins](https://github.com/Mermade/widdershins)
 <!--END_SECTION:activity-->
 
 ## My Stackoverflow Stats
