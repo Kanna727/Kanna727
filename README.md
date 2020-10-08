@@ -34,7 +34,6 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visual-studio&logoColor=5c2d91)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
 
 ## My Coding Stats
