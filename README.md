@@ -64,8 +64,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/Azure/static-web-apps/issues/217) in [Azure/static-web-apps](https://github.com/Azure/static-web-apps)
-2. ❗️ Opened issue [#217](https://github.com/Azure/static-web-apps/issues/217) in [Azure/static-web-apps](https://github.com/Azure/static-web-apps)
+1. 💪 Opened PR [#49](https://github.com/jamesgeorge007/github-activity-readme/pull/49) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 3. 🗣 Commented on [#15](https://github.com/Kanna727/jekyll-run/issues/15) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
 4. 🎉 Merged PR [#5](https://github.com/Kanna727/Production-Ready-Express-Template/pull/5) in [Kanna727/Production-Ready-Express-Template](https://github.com/Kanna727/Production-Ready-Express-Template)
 5. 💪 Opened PR [#295](https://github.com/winstonjs/winston-daily-rotate-file/pull/295) in [winstonjs/winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file)
