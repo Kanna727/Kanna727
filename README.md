@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Visits Badge](https://badges.pufler.dev/visits/Kanna727/Kanna727?style=for-the-badge)
-![Years Badge](https://badges.pufler.dev/years/Kanna727?style=for-the-badge)
-[![Repos Badge](https://badges.pufler.dev/repos/Kanna727?style=for-the-badge)](https://github.com/Kanna727?tab=repositories)
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/Kanna727/Kanna727?style=for-the-badge) -->
+<!-- ![Years Badge](https://badges.pufler.dev/years/Kanna727?style=for-the-badge) -->
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/Kanna727?style=for-the-badge)](https://github.com/Kanna727?tab=repositories) -->
 <!-- [![Gists Badge](https://badges.pufler.dev/gists/Kanna727?style=for-the-badge)](https://gist.github.com/Kanna727) -->
 
 **Languages I have used**
