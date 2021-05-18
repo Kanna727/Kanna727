@@ -58,21 +58,16 @@ src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=
 <img align="" height='150px'
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark"/>
 
-### Recent Activity
+### Recent Github Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#28](https://github.com/Kanna727/jekyll-run/pull/28) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-3. 🎉 Merged PR [#32](https://github.com/Kanna727/jekyll-run/pull/32) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-4. ❌ Reopened PR [#28](https://github.com/Kanna727/jekyll-run/pull/28) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-5. 🗣 Commented on [#31](https://github.com/Kanna727/jekyll-run/issues/31) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
 
 ## My Stackoverflow Stats
 
 <a href="https://stackoverflow.com/users/8487133/prasanth-kanna"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark"></a>
 
-### Recent Activity
+### Recent Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [How to setup HTTPS express server on AKS with ingress controller](https://stackoverflow.com/questions/65362908/how-to-setup-https-express-server-on-aks-with-ingress-controller)
 - [Unicode characters not working in Cloud Firestore](https://stackoverflow.com/questions/53855197/unicode-characters-not-working-in-cloud-firestore)
