@@ -1,5 +1,6 @@
 name: Profile Workflow
 on:
+  workflow_dispatch:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
