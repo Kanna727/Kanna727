@@ -66,14 +66,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&lay
 ### Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 8th, 2021, 6:45:56 PM
+Last Updated: Monday, August 9th, 2021, 6:45:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#23](https://github.com/Kanna727/PnB/pull/23) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
-2. ❗️ Closed issue [#22](https://github.com/Kanna727/PnB/issues/22) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
-3. ❗️ Closed issue [#24](https://github.com/Kanna727/PnB/issues/24) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
-4. ❗️ Closed issue [#20](https://github.com/Kanna727/PnB/issues/20) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
-5. ❗️ Opened issue [#24](https://github.com/Kanna727/PnB/issues/24) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+1. 🎉 Merged PR [#28](https://github.com/Kanna727/PnB/pull/28) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+2. 💪 Opened PR [#28](https://github.com/Kanna727/PnB/pull/28) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+3. 🎉 Merged PR [#27](https://github.com/Kanna727/PnB/pull/27) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+4. 💪 Opened PR [#27](https://github.com/Kanna727/PnB/pull/27) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+5. 🎉 Merged PR [#26](https://github.com/Kanna727/PnB/pull/26) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
 <!--RECENT_ACTIVITY:end-->
 
 ## My Stackoverflow Stats
