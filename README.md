@@ -82,7 +82,7 @@ Last Updated: Friday, August 13th, 2021, 6:46:45 PM
 
 ## My Stackoverflow Stats
 
-<a href="https://stackoverflow.com/users/8487133/prasanth-kanna"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark"></a>
+<a href="https://stackoverflow.com/users/8487133/prasanth-kanna"><img height='260px' align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8487133&theme=dark"></a>
 
 ### Recent Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
@@ -98,6 +98,6 @@ Last Updated: Friday, August 13th, 2021, 6:46:45 PM
 - [How to blur the BottomNavigationBar in Flutter?](https://stackoverflow.com/questions/50133651/how-to-blur-the-bottomnavigationbar-in-flutter)
 <!-- STACKOVERFLOW:END -->
 
-<!-- <p align="center">
-<a href="https://app.daily.dev/Dedsec727"><img src="https://api.daily.dev/devcards/8eaaa75801c34dcda99bd3df979fc34e.png?r=x8k" width="400" alt="Prasanth Kanna's Dev Card"/></a>
-</p> -->
+<p align="center">
+<a href="https://app.daily.dev/Dedsec727"><img src="https://api.daily.dev/devcards/8eaaa75801c34dcda99bd3df979fc34e.png?r=x8k" width="350" alt="Prasanth Kanna's Dev Card"/></a>
+</p>
