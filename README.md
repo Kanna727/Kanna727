@@ -1,9 +1,11 @@
-### Hi there 👋
+![Header](https://github.com/Kanna727/Kanna727/blob/master/header.png?raw=true)
 
-<!-- ![Visits Badge](https://badges.pufler.dev/visits/Kanna727/Kanna727?style=for-the-badge) -->
-<!-- ![Years Badge](https://badges.pufler.dev/years/Kanna727?style=for-the-badge) -->
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/Kanna727?style=for-the-badge)](https://github.com/Kanna727?tab=repositories) -->
-<!-- [![Gists Badge](https://badges.pufler.dev/gists/Kanna727?style=for-the-badge)](https://gist.github.com/Kanna727) -->
+<p align="center">
+    <img src="https://badges.pufler.dev/visits/Kanna727/Kanna727?style=for-the-badge"/>
+    <img src="https://badges.pufler.dev/years/Kanna727?style=for-the-badge"/>
+    <img src="https://badges.pufler.dev/repos/Kanna727?style=for-the-badge"/>
+    <img src="https://badges.pufler.dev/gists/Kanna727?style=for-the-badge"/>
+</p>
 
 **Languages I have used**
 
@@ -59,9 +61,11 @@ Other                    17 mins             ░░░░░░░░░░░�
 
 ## My Github Stats
 <img align="" height='150px'
-src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
 <img align="" height='150px'
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark&hide_border=true"/>
+<img align="" height='150px'
+src="http://github-readme-streak-stats.herokuapp.com?user=Kanna727&theme=dark&hide_border=true"/>
 
 ### Recent Github Activity
 
@@ -93,3 +97,7 @@ Last Updated: Friday, August 13th, 2021, 6:46:45 PM
 - [How to crop Image from image picker in flutter?](https://stackoverflow.com/questions/50343045/how-to-crop-image-from-image-picker-in-flutter)
 - [How to blur the BottomNavigationBar in Flutter?](https://stackoverflow.com/questions/50133651/how-to-blur-the-bottomnavigationbar-in-flutter)
 <!-- STACKOVERFLOW:END -->
+
+<!-- <p align="center">
+<a href="https://app.daily.dev/Dedsec727"><img src="https://api.daily.dev/devcards/8eaaa75801c34dcda99bd3df979fc34e.png?r=x8k" width="400" alt="Prasanth Kanna's Dev Card"/></a>
+</p> -->
