@@ -113,14 +113,14 @@ src="http://github-readme-streak-stats.herokuapp.com?user=Kanna727&theme=dark&hi
 ### Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 16th, 2021, 6:46:39 PM
+Last Updated: Tuesday, August 17th, 2021, 6:49:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 🗣 Commented on [#32](https://github.com/Kanna727/jekyll-run/issues/32) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-2. 🗣 Commented on [#28](https://github.com/Kanna727/jekyll-run/issues/28) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-3. 🗣 Commented on [#44](https://github.com/Kanna727/jekyll-run/issues/44) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-4. 🎉 Merged PR [#44](https://github.com/Kanna727/jekyll-run/pull/44) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-5. 🎉 Merged PR [#28](https://github.com/Kanna727/PnB/pull/28) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+1. 🎉 Merged PR [#29](https://github.com/Kanna727/PnB/pull/29) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+2. 💪 Opened PR [#29](https://github.com/Kanna727/PnB/pull/29) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+3. 🗣 Commented on [#32](https://github.com/Kanna727/jekyll-run/issues/32) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
+4. 🗣 Commented on [#28](https://github.com/Kanna727/jekyll-run/issues/28) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
+5. 🗣 Commented on [#44](https://github.com/Kanna727/jekyll-run/issues/44) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
 <!--RECENT_ACTIVITY:end-->
 
 ## My Stackoverflow Stats
