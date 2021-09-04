@@ -113,12 +113,12 @@ src="http://github-readme-streak-stats.herokuapp.com?user=Kanna727&theme=dark&hi
 ### Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 3rd, 2021, 6:45:17 PM
+Last Updated: Saturday, September 4th, 2021, 6:43:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 🗣 Commented on [#619](https://github.com/BenjaminVanRyseghem/numbro/issues/619) in [BenjaminVanRyseghem/numbro](https://github.com/BenjaminVanRyseghem/numbro)
-2. 🗣 Commented on [#619](https://github.com/BenjaminVanRyseghem/numbro/issues/619) in [BenjaminVanRyseghem/numbro](https://github.com/BenjaminVanRyseghem/numbro)
-3. ❌ Closed PR [#619](https://github.com/BenjaminVanRyseghem/numbro/pull/619) in [BenjaminVanRyseghem/numbro](https://github.com/BenjaminVanRyseghem/numbro)
+1. ❗️ Opened issue [#39](https://github.com/Kanna727/PnB/issues/39) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+2. ❗️ Opened issue [#38](https://github.com/Kanna727/PnB/issues/38) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+3. ❗️ Opened issue [#37](https://github.com/Kanna727/PnB/issues/37) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
 4. 🗣 Commented on [#619](https://github.com/BenjaminVanRyseghem/numbro/issues/619) in [BenjaminVanRyseghem/numbro](https://github.com/BenjaminVanRyseghem/numbro)
 5. 🗣 Commented on [#619](https://github.com/BenjaminVanRyseghem/numbro/issues/619) in [BenjaminVanRyseghem/numbro](https://github.com/BenjaminVanRyseghem/numbro)
 <!--RECENT_ACTIVITY:end-->
