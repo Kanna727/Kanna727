@@ -112,14 +112,14 @@ src="http://github-readme-streak-stats.herokuapp.com?user=Kanna727&theme=dark&hi
 ### Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 23rd, 2021, 6:42:52 PM
+Last Updated: Sunday, October 24th, 2021, 6:43:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 🗣 Commented on [#47](https://github.com/Kanna727/jekyll-run/issues/47) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
-2. ❗️ Opened issue [#41](https://github.com/Kanna727/PnB/issues/41) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
-3. 🗣 Commented on [#619](https://github.com/BenjaminVanRyseghem/numbro/issues/619) in [BenjaminVanRyseghem/numbro](https://github.com/BenjaminVanRyseghem/numbro)
-4. ❗️ Opened issue [#133273](https://github.com/microsoft/vscode/issues/133273) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#40](https://github.com/Kanna727/PnB/issues/40) in [Kanna727/PnB](https://github.com/Kanna727/PnB)
+1. 🗣 Commented on [#29](https://github.com/Kanna727/jekyll-run/issues/29) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
+2. 🗣 Commented on [#47](https://github.com/Kanna727/jekyll-run/issues/47) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
+3. 🗣 Commented on [#47](https://github.com/Kanna727/jekyll-run/issues/47) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
+4. 🎉 Merged PR [#47](https://github.com/Kanna727/jekyll-run/pull/47) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
+5. 🗣 Commented on [#47](https://github.com/Kanna727/jekyll-run/issues/47) in [Kanna727/jekyll-run](https://github.com/Kanna727/jekyll-run)
 <!--RECENT_ACTIVITY:end-->
 
 ## My Stackoverflow Stats
