@@ -128,6 +128,7 @@ Last Updated: Sunday, November 7th, 2021, 6:43:16 PM
 
 ### Recent Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Destructuring undefined inside an object vs array [duplicate]](https://stackoverflow.com/questions/69881888/destructuring-undefined-inside-an-object-vs-array)
 - [Is there any way to use Ctrl + Click to trigger a command as part of a VS Code extension?](https://stackoverflow.com/questions/69350721/is-there-any-way-to-use-ctrl-click-to-trigger-a-command-as-part-of-a-vs-code-e)
 - [How to setup HTTPS express server on AKS with ingress controller](https://stackoverflow.com/questions/65362908/how-to-setup-https-express-server-on-aks-with-ingress-controller)
 - [Unicode characters not working in Cloud Firestore](https://stackoverflow.com/questions/53855197/unicode-characters-not-working-in-cloud-firestore)
