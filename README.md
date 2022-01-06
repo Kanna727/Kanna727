@@ -112,14 +112,14 @@ src="http://github-readme-streak-stats.herokuapp.com?user=Kanna727&theme=dark&hi
 ### Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 5th, 2022, 6:46:44 PM
+Last Updated: Thursday, January 6th, 2022, 6:46:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#11](https://github.com/Kanna727/GoLearn/pull/11) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
-2. 💪 Opened PR [#10](https://github.com/Kanna727/GoLearn/pull/10) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
-3. 💪 Opened PR [#9](https://github.com/Kanna727/GoLearn/pull/9) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
-4. ❌ Closed PR [#8](https://github.com/Kanna727/GoLearn/pull/8) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
-5. 💪 Opened PR [#8](https://github.com/Kanna727/GoLearn/pull/8) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
+1. 💪 Opened PR [#13](https://github.com/Kanna727/GoLearn/pull/13) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
+2. 💪 Opened PR [#12](https://github.com/Kanna727/GoLearn/pull/12) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
+3. 💪 Opened PR [#11](https://github.com/Kanna727/GoLearn/pull/11) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
+4. 💪 Opened PR [#10](https://github.com/Kanna727/GoLearn/pull/10) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
+5. 💪 Opened PR [#9](https://github.com/Kanna727/GoLearn/pull/9) in [Kanna727/GoLearn](https://github.com/Kanna727/GoLearn)
 <!--RECENT_ACTIVITY:end-->
 
 ## My Stackoverflow Stats
