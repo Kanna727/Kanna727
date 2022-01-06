@@ -22,6 +22,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=0175C2)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin&logoColor=0095d5)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=D74C0F)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go&logoColor=29BEB0)
 
 **Some of the technologies I have worked with**
 
