@@ -1,4 +1,4 @@
-![Header](https://github.com/Kanna727/Kanna727/blob/master/header.png?raw=true)
+![Header](https://github.com/Kanna727/Kanna727/blob/master/PRASANTH.png?raw=true)
 
 <p align="center">
     <img src="https://badges.pufler.dev/visits/Kanna727/Kanna727?style=for-the-badge"/>
@@ -100,12 +100,18 @@ Java                     2 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## My Github Stats
-<img align="" height='150px'
-src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
-<img align="" height='150px'
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark&hide_border=true"/>
-<img align="" height='150px'
-src="http://github-readme-streak-stats.herokuapp.com?user=Kanna727&theme=dark&hide_border=true"/>
+<p align="center">
+    <img height='150px'
+    src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
+    <img height='150px'
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark&hide_border=true"/>
+    <img height='150px'
+    src="http://github-readme-streak-stats.herokuapp.com?user=Kanna727&theme=dark&hide_border=true"/>
+</p>
+<p align="center">
+    <img
+    src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar&margin-w=5&no-frame=true&column=4&margin-h=5"/>
+</p>
 
 ### Recent Github Activity
 
