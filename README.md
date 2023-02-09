@@ -42,7 +42,7 @@
 
 ## My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C120%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C121%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287%20Thousand%20lines%20of%20code-blue)
 
@@ -73,12 +73,11 @@ Sunday          12 commits       ████████████░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 59 mins       ████████████████████████░   99.16 % 
-LESS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               8 hrs 50 mins       ████████████████████████░   99.20 % 
+LESS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 54 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -95,7 +94,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2023 18:45:57 UTC
+ Last Updated on 09/02/2023 18:46:13 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
