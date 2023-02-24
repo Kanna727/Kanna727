@@ -42,7 +42,7 @@
 
 ## My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C131%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462.5%20thousand%20lines%20of%20code-blue)
 
@@ -71,12 +71,12 @@ Sunday                   12 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 57 mins       █████████████████████████   99.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               1 hr 58 mins        ██████████████████████░░░   89.90 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +92,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 18:42:26 UTC
+ Last Updated on 24/02/2023 18:41:44 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
