@@ -44,7 +44,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%2056%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-465.4%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -75,7 +75,7 @@ JavaScript               44 mins             ███████████�
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -91,7 +91,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2023 18:38:58 UTC
+ Last Updated on 05/03/2023 18:39:03 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
