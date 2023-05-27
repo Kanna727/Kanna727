@@ -71,10 +71,10 @@ Sunday                   338 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 24 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +90,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2023 18:37:25 UTC
+ Last Updated on 27/05/2023 18:36:56 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
