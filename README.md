@@ -42,7 +42,7 @@
 
 ## My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C137%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C138%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -71,10 +71,10 @@ Sunday                   338 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    40 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +90,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2023 18:37:19 UTC
+ Last Updated on 14/06/2023 18:37:01 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
