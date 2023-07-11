@@ -127,7 +127,6 @@ Last Updated: Saturday, February 19th, 2022, 6:41:12 PM
 
 ### Recent Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Are there any applications or products that cannot use a rate limiter? [closed]](https://stackoverflow.com/questions/76594720/are-there-any-applications-or-products-that-cannot-use-a-rate-limiter)
 - [Destructuring undefined inside an object vs array [duplicate]](https://stackoverflow.com/questions/69881888/destructuring-undefined-inside-an-object-vs-array)
 - [How to setup HTTPS express server on AKS with ingress controller](https://stackoverflow.com/questions/65362908/how-to-setup-https-express-server-on-aks-with-ingress-controller)
 - [Unicode characters not working in Cloud Firestore](https://stackoverflow.com/questions/53855197/unicode-characters-not-working-in-cloud-firestore)
