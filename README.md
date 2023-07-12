@@ -97,9 +97,9 @@ Go                       1 repo              █░░░░░░░░░░�
 ## My Github Stats
 <p align="center">
     <img height='150px'
-    src="https://github-readme-stats.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanna727&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
     <img height='150px'
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark&hide_border=true"/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanna727&layout=compact&theme=dark&hide_border=true"/>
     <img height='150px'
     src="http://github-readme-streak-stats.herokuapp.com?user=Kanna727&theme=dark&hide_border=true"/>
 </p>
