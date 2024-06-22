@@ -71,11 +71,10 @@ Sunday                   343 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               ███████████████████░░░░░░   77.78 % 
-JavaScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -91,7 +90,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2024 18:39:55 UTC
+ Last Updated on 22/06/2024 18:38:07 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
