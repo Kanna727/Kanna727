@@ -42,7 +42,7 @@
 
 ## My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C194%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C194%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -71,12 +71,12 @@ Sunday                   343 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 11 mins       ██████████████████████░░░   87.30 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+JavaScript               2 hrs 14 mins       ██████████████████████░░░   87.49 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +92,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 18:41:54 UTC
+ Last Updated on 13/07/2024 18:38:19 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
