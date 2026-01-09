@@ -80,17 +80,17 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Dart                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Dart                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 08/01/2026 18:54:17 UTC
+ Last Updated on 09/01/2026 18:56:15 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
