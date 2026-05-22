@@ -42,8 +42,6 @@
 
 ## My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs%2032%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.71%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -90,7 +88,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 20:21:21 UTC
+ Last Updated on 22/05/2026 20:20:51 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
